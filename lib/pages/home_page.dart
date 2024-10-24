@@ -26,7 +26,6 @@ class _HomePageState extends State<HomePage> {
     'Writing',
     'Teaching',
     'Cooking',
-    'Photography',
     'Medicine',
     'Theater',
     'Graphic Arts',
