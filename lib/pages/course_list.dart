@@ -41,7 +41,7 @@ class _CourseListState extends State<CourseList> {
         leading: IconButton(
           icon: const Icon(Icons.arrow_back),
           onPressed: () {
-            Navigator.pop(context); // Go back to the previous page
+            Navigator.pop(context); // Go back to the first page
           },
         ),
       ),
